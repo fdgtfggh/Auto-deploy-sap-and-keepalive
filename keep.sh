@@ -1,11 +1,11 @@
-#!/bin/sh
+﻿#!/bin/sh
 
 # 环境变量配置
-EMAIL="xxxxx@xxxx.com"   # 登录邮箱
-PASSWORD="xxxxxxxxx"     # 登录密码
+EMAIL="1qazxsw2@atomicmail.io"   # 登录邮箱
+PASSWORD="TMOVQIWhPWXb1TsjJ92Z"     # 登录密码
 
 # 要保活的URL列表,多个用英文空格分隔
-URLS="https://xxxx.cfapps.ap21.hana.ondemand.com https://xxxx.cfapps.us10-001.hana.ondemand.com"  
+URLS="https://free-sgdhsjif.cfapps.ap21.hana.ondemand.com"  
 
 # 颜色定义
 green() {
